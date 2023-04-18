@@ -3,9 +3,12 @@
 [![build_test](https://github.com/sagnikgh1899/FraudDetection/actions/workflows/build_test.yml/badge.svg)](https://github.com/sagnikgh1899/FraudDetection/actions/workflows/build_test.yml)
 [![Coverage Status](https://coveralls.io/repos/github/sagnikgh1899/FraudDetection/badge.svg?branch=main)](https://coveralls.io/github/sagnikgh1899/FraudDetection?branch=main)
 
-![image](https://user-images.githubusercontent.com/118493234/232666820-dc16bbdf-25b3-48e8-9db9-678588c1c12c.png)
+#### PROJECT GOAL
+The goal of the project is to build an infrastructure that can be used to identify fraudulent providers and gain insights into specific facilities, providers, and physicians who may be engaging in fraudulent activity. The Infrastructure will consists of 2 main parts: Visualization (comprising various different insights), Modelling (comprising ML models that will identify fradulent claims)
+
 ![image](https://user-images.githubusercontent.com/118493234/232666849-c2a4b842-159c-4205-a12f-a691f340edb7.png)
-![image](https://user-images.githubusercontent.com/118493234/232666881-0acf5245-ae36-485a-95d4-744582423814.png)
+![image](https://user-images.githubusercontent.com/118493234/232666820-dc16bbdf-25b3-48e8-9db9-678588c1c12c.png)
+
 
 
 #### PROJECT TYPE
@@ -19,9 +22,6 @@ Sagnik Ghosal, Ishank Vasania, Prerit Chaudhary, Neel Shah
 2. Are there any specific years or specific states where the number of fraud claims were high?
 3. Are there specific patterns in frauds specific to providers and medical insurance claims? 
 4. What are the trends of claims across beneficiary demographics?
-
-#### PROJECT GOAL
-The goal of the project is to build an infrastructure that can be used to identify fraudulent providers and gain insights into specific facilities, providers, and physicians who may be engaging in fraudulent activity. The Infrastructure will consists of 2 main parts: Visualization (comprising various different insights), Modelling (comprising ML models that will identify fradulent claims)
 
 #### DATA SOURCES
 We have used the following 4 different datasets for the various analysis and model development: [Inpatient Data](https://www.kaggle.com/code/rohitrox/medical-provider-fraud-detection/data?select=Train_Inpatientdata-1542865627584.csv), [Outpatient Data](https://www.kaggle.com/code/rohitrox/medical-provider-fraud-detection/data?select=Train_Outpatientdata-1542865627584.csv), [Beneficiary Data](https://www.kaggle.com/code/rohitrox/medical-provider-fraud-detection/data?select=Train_Beneficiarydata-1542865627584.csv), and [Fraud Data](https://www.kaggle.com/code/rohitrox/medical-provider-fraud-detection/data?select=Train-1542865627584.csv). 
