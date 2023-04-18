@@ -3,6 +3,10 @@
 [![build_test](https://github.com/sagnikgh1899/FraudDetection/actions/workflows/build_test.yml/badge.svg)](https://github.com/sagnikgh1899/FraudDetection/actions/workflows/build_test.yml)
 [![Coverage Status](https://coveralls.io/repos/github/sagnikgh1899/FraudDetection/badge.svg?branch=main)](https://coveralls.io/github/sagnikgh1899/FraudDetection?branch=main)
 
+![image](https://user-images.githubusercontent.com/118493234/232666820-dc16bbdf-25b3-48e8-9db9-678588c1c12c.png)
+![image](https://user-images.githubusercontent.com/118493234/232666849-c2a4b842-159c-4205-a12f-a691f340edb7.png)
+![image](https://user-images.githubusercontent.com/118493234/232666881-0acf5245-ae36-485a-95d4-744582423814.png)
+
 
 #### PROJECT TYPE
 Analysis and Research Tool
